@@ -1,10 +1,13 @@
 This is a file 1 
 
 Feature branch changes
-<<<<<<< Updated upstream
-=======
+HEAD
+Updated upstream
+
 Bugfix changes
 Uncommitted changes
->>>>>>> Stashed changes
+Stashed changes
 
 
+Bugfix changes
+1d148a9 (Bugfix changes in bugfix-branch)
