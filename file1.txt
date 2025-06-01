@@ -1,2 +1,10 @@
-This is file 1
+This is a file 1 
+
 Feature branch changes
+<<<<<<< Updated upstream
+=======
+Bugfix changes
+Uncommitted changes
+>>>>>>> Stashed changes
+
+
